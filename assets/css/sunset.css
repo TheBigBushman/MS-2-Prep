@@ -1,0 +1,84 @@
+
+
+
+#parallax-image{
+    background-image: url("../img/sunset2.jpg");
+    height: 800px;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#parallax-image-1{
+    background-image:url("../img/beach-2.jpg");
+    height: 500px;
+    margin-bottom: 50px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-container{
+    height: 300px;
+    
+    border-radius: 25px;
+}
+.container-2{
+    height: 400px;
+    color: rgb(221, 211, 211)
+    
+}
+
+h1, h2{
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+    
+}
+body{
+    color: RGBA(183,122,68,1);
+    font-family: 'Roboto', sans-serif;
+}
+.h3-logo{
+    text-align: center;
+}
+
+.hotel-image{
+    background-image: url("../img/hotel.jpg");
+    width:300px;
+    height: 300px;
+    border-radius: 50%;
+    border: orange dotted 1px;
+    text-align: center;
+    margin: 0 auto;
+    overflow: hidden;
+    background-position: bottom center;
+    
+}
+.flight-image{
+    background-image: url("../img/flight.jpg");
+    width:300px;
+    height: 300px;
+    border-radius: 50%;
+    border: orange dotted 1px;
+    text-align: center;
+    margin: 0 auto;
+    background-position: center center;
+    overflow: hidden;
+    background-repeat: no-repeat;
+     
+    
+}
+
+.flight-search{
+    padding-top: 50px;
+    margin-top: 100px;
+}
+
+.inside-content{
+    padding-top: 150px;
+}
+
